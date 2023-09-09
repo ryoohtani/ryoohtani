@@ -16,4 +16,5 @@
 [![](https://visitcount.itsvg.in/api?id=ryoohtani&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-![aws-certified-cloud-practitioner](https://github.com/ryoohtani/ryoohtani/assets/139527783/f0f53c0a-c5c0-43bc-861d-2249955dd9ba)
+
+![aws-certified-cloud-practitioner](https://github.com/ryoohtani/ryoohtani/assets/139527783/c3980480-4e42-409a-9eb1-fa7b3f66d1ad)
